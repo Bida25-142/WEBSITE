@@ -1,0 +1,151 @@
+.home-page {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: darkgrey;
+}
+
+
+
+
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+    color: hsl(0, 83%, 44%);
+    line-height: 1.6;
+    padding: 20px;
+    text-align: right;
+}
+
+h1 {
+    color: lab(61.46% 39.16 64.52);
+    background-color: black;
+    margin-bottom: 30px;
+    text-align: right;
+    padding: 30px 1%;
+}
+
+h2 {
+    margin-bottom: 10px;
+    color: rgb(218, 11, 11); 
+    text-align: right;
+    font-weight: bold;
+}
+
+nav {
+    margin-bottom: 20px
+    text-align: right;
+    color: #000;
+}
+
+nav a {
+    text-decoration: dotted;
+    color: hsl(32, 91%, 47%);
+    text-align: right;
+    margin-right: 15px;
+    margin-top:  10px; 
+    font-weight: 500;
+    font-weight: bold;
+    
+}
+
+nav a:hover {
+    color:rgb(16, 35, 206);
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin: auto;
+    display: block;
+    
+}
+
+footer {
+    margin-top: 25px;
+    padding-top: 15px;
+    border-top: 1px solid #c00b0b;
+    font-size: 14px;
+    color: rgb(230, 16, 16);
+}
+
+
+.about-page {
+    background-image: url(https://wallpapers.com/images/hd/green-audi-rs-5-pl51qx0r7qy9kvof.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.contact-page {
+    background-image: url(https://www.hdcarwallpapers.com/thumbs/2022/audi_rs_7_sportback_performance_5k_interior-t2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+  
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+th, td {
+    border: 1px solid #444;
+    padding: 12px;
+}
+
+th {
+    background-color: red;
+    color: white;
+}
+
+form {
+    border-radius: 8px;
+    width: 100%;
+    font-weight: bold;
+    
+    
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    
+    
+}
+
+button {
+    background-color: red;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkred;
+}
+
+.table-page {
+    background-image: url(https://alisterpaine.com/wp-content/uploads/2016/09/WEBRESWashington-109.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.form-page {
+    background-image: url(https://img.goodfon.com/wallpaper/nbig/1/98/abt-audi-rs7-audi-rs-7-12.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
